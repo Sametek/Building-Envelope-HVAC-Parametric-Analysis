@@ -219,9 +219,3 @@ python main.py
 ```
 
 Program tamamlandığında analiz biter ve grafikler `outputs/` klasörüne yazılır.
-
-## Notlar
-
-- Üretilen grafikler versiyon kontrolüne dahil edilmez.
-- Proje dış veri dosyasına ihtiyaç duymaz; tüm varsayılanlar `config.py` içindedir.
-- İstenirse bir sonraki adımda README’ye Türkçe örnek sonuç ekranı ve GitHub kapak metni de eklenebilir.
